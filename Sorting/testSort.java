@@ -24,7 +24,7 @@ public class testSort {
         printArr(arr);
 
         // bbl.sort(arr);
-        qck.sort(arr);
+        inc.sort(arr);
 
         printArr(arr);
 

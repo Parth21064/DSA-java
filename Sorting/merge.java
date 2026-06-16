@@ -20,8 +20,7 @@ public class merge {
             }
             
         }
-
-        
+ 
         while (idx<=mid) {
                 mgArr[md++]=arr[idx++];
                 
